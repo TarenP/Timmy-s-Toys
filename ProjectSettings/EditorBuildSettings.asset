@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Timmy's Cleanup.unity
+    guid: fb0518409cbb7474facc377da5c1035d
+  - enabled: 1
+    path: Assets/Scenes/Home Screen 1.unity
+    guid: bab449bb070610945b76c3d5bed55b4e
+  - enabled: 1
+    path: Assets/Scenes/Champion.unity
+    guid: 15b36c67106b2b74f958a3ea6b9758d5
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: ea1b82a9734e15c4eb049edc9426e7d7
+  - enabled: 1
+    path: Assets/Champion/Main 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Next Level.unity
+    guid: de332f7eba4df494b8fdb9868407e5a5
+  - enabled: 1
+    path: Assets/Champion/Main 2.unity
+    guid: 08ef5d5fd1505644db3bb66abb5d4577
+  - enabled: 1
+    path: Assets/Champion/Last Level.unity
+    guid: 484ae9dc4f4ee9842b38cb53876eded3
+  - enabled: 1
+    path: Assets/Champion/Main 3.unity
+    guid: 75a130e711a5fca4b876f000008d4db3
+  - enabled: 1
+    path: Assets/Champion/You lost.unity
+    guid: 015db4b5e823e9341a59151ba00f088b
+  - enabled: 1
+    path: Assets/Champion/Winner.unity
+    guid: ac3961f33c512e64087f2fc422164875
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: d9c27e46fdf86d840b93e1ec3369f8bb
+  - enabled: 1
+    path: Assets/Champion/Main 1.5.unity
+    guid: d61e2b34319e73641a88cdcb9b5de47c
+  - enabled: 1
+    path: Assets/Champion/Main 2.5.unity
+    guid: e20706d933ddff245a831617f4e78af0
+  - enabled: 1
+    path: Assets/Champion/Main 3.5.unity
+    guid: 74ea927d86e819e488e86243c085856c
+  - enabled: 1
+    path: Assets/Champion/Winner 1.unity
+    guid: e2e3762e675625549934acacbd2249ae
+  - enabled: 1
+    path: Assets/Champion/Winner 2.unity
+    guid: 81c246a6ac4591843afb60c79b8e152d
+  - enabled: 1
+    path: Assets/Champion/Winner 3.unity
+    guid: 1f562b6d9158b304694c8301e626a1e4
+  - enabled: 1
+    path: Assets/Champion/You lost 1.unity
+    guid: 927d1ed5eac813748b01e118db067534
+  m_configObjects: {}
